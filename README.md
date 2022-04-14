@@ -1,3 +1,5 @@
+<img width="992" alt="image" src="https://user-images.githubusercontent.com/407441/163316114-75ac4e4f-a148-4ce4-b286-22d7e16204f5.png">
+
 # reddit-place-2022
 Scripts for reading/viewing the Reddit /r/place 2022 Event data.
 
